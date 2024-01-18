@@ -6,9 +6,11 @@ A note taking site to keep track of tasks and relevent details on a central DB. 
 
 ## Installation
 Open in web browser
+
+deployed at: https://peaceful-escarpment-39979-d8fd5e921977.herokuapp.com/notes
 ## Usage
 
-Open in web browser, press the 'get started button.  Type notes into the applicable feilds, press the save button to save each note. Notes can be deleted with the big red X buttons next to them. 
+Open in web browser, press the 'get started' button.  Type notes into the applicable feilds, press the save button to save each note. Notes can be deleted with the big red X buttons next to them. 
 
 ## Credits
 
